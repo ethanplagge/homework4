@@ -1,0 +1,28 @@
+.site-wrapper{
+  min-height: 100%;
+  width: 80%;
+  margin: 0 auto;
+  background-color: rgb(10, 79, 122, 0.5);
+  h1{
+    text-align: center;
+    color: white;
+  }
+  .chemistry{
+    margin-top: 20px;
+    height: 700px;
+    width: 100%;
+    background-image: url(../images/chemistry.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .chemist{
+    margin-top: 20px;
+    height: 700px;
+    width: 100%;
+    background-image: url(../images/chemist.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
